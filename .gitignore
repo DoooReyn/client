@@ -1,0 +1,5 @@
+*.cfg
+*.udf
+*.DS_Store
+/frameworks/
+/simulator/
